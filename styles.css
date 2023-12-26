@@ -6,5 +6,5 @@ h1 {
  {
     font-size: 1em;
     color: #000;
-    font-family: Arial;
+    font: normal 10px Verdana, Arial, sans-serif;
  }
