@@ -2,8 +2,16 @@ html {
     color: #000;
 }
 
-p, ul {
+p {
     font: normal 16px Verdana, Arial, sans-serif;
+}
+
+ul {
+    font: normal 16px Verdana, Arial, sans-serif;
+ }
+
+ li {
+    margin-bottom: 15px;
  }
 
  h1 {
