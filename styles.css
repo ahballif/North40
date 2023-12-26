@@ -1,13 +1,14 @@
 html {
     color: #000;
+    padding: 40px
 }
 
 p {
-    font: normal 16px Verdana, Arial, sans-serif;
+    font: normal Verdana, Arial, sans-serif;
 }
 
 ul {
-    font: normal 16px Verdana, Arial, sans-serif;
+    font: normal Verdana, Arial, sans-serif;
  }
 
  li {
@@ -15,14 +16,15 @@ ul {
  }
 
  h1 {
-    font: normal 26px Verdana, Arial, sans-serif;
+    font: normal Verdana, Arial, sans-serif;
+    font-weight: bold;
  }
 
  h2 {
-    font: normal 20px Verdana, Arial, sans-serif;
+    font: normal Verdana, Arial, sans-serif;
  }
 
  a {
     color: #19b5ab;
-    font: normal 16px Verdana, Arial, sans-serif;
+    font: normal Verdana, Arial, sans-serif;
  }
